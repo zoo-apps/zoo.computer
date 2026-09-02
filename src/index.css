@@ -11,7 +11,7 @@ body {
 }
 
 @theme {
-  --font-sans: 'Inter', sans-serif;
+  --font-sans: Zen, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 
   --color-primary: #00ff9b;
   --color-primary-dark: #00cc7c;
